@@ -164,3 +164,12 @@ footer {
 p.copyright {
     margin: 15px 0 0;
 }
+
+.navbar-default .navbar-nav>li>a {
+  color: #F99100;
+}
+
+.calltoaction {
+  color: #F99100;
+  background-color: transparent;
+}
