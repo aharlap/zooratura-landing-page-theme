@@ -1,0 +1,9 @@
+---
+layout: default
+img: clouds_kit.jpg
+category: Products
+title: CLOUDS kit,<br>weave-it-yourself lampshade
+description: |
+  <p class="lead">The CLOUDS kit is soft, curved, and classic. Inspired by the symmetries found in nature, this lamp will be a mesmerizing accent to your home or office, both when the lights are on and off.</p>
+
+---

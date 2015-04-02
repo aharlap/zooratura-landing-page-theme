@@ -1,0 +1,9 @@
+---
+layout: default
+img: PRISM_animated.gif
+category: Products
+title: Light & dark
+description: |
+  <p class="lead">Staring at a wall never felt so good! Check out the patterns this PRISM lampshade can make on your wall.</p>
+
+---

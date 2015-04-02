@@ -1,0 +1,9 @@
+---
+layout: default
+img: prism_kit.jpg
+category: Products
+title: PRISM kit,<br>weave-it-yourself lampshade
+description: |
+  <p class="lead">The PRISM kit is angular, modern, and geometric. It ships flat and includes all the instructions you need to weave your own lampshade with the provided 100% wool yarn.</p>
+
+---
